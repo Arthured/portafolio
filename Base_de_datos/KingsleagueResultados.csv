@@ -1,0 +1,67 @@
+﻿Jornada,Horario,Equipo1,Equipo2,GolesEquipo1,GolesEquipo2
+1,08:00,ultimate mostoles,Rayo de Barcelona,1,1
+1,09:00,El barrio,Jijantes,2,3
+1,10:00,Kunisport,Kunisport,2,3
+1,11:00,Aniquiladores,Troncos,1,2
+1,12:00,1K,1K,8,2
+1,13:00,Porcinos,Saiyans,2,2
+2,08:00,Xbuyer,Ultimate mostoles,5,4
+2,09:00,Porcinos,1K,2,2
+2,10:00,Troncos,Jijantes,4,0
+2,11:00,El barrio,Saiyans,2,4
+2,12:00,Pio,Kunisport,1,1
+2,13:00,Rayo de Barcelona,Aniquiladores,3,3
+3,08:00,Rayo de Barcelona,Xbuyer,1,7
+3,09:00,Porcinos,Aniquiladores,3,6
+3,10:00,1K,Jijantes,1,3
+3,11:00,ultimate mostoles,El barrio,1,2
+3,12:00,Kunisport,Saiyans,1,3
+3,13:00,Troncos,Pio,3,0
+4,08:00,Rayo de Barcelona,Saiyans,2,3
+4,09:00,Troncos,1K,4,4
+4,10:00,ultimate mostoles,Jijantes,10,2
+4,11:00,Xbuyer,El barrio,4,3
+4,12:00,Aniquiladores,Kunisport,3,0
+4,13:00,Porcinos,Pio,6,3
+5,08:00,Rayo de Barcelona,Jijantes,1,4
+5,09:00,Porcinos,Ultimate mostoles,0,6
+5,10:00,El barrio,Kunisport,2,6
+5,11:00,Saiyans,1K,5,6
+5,12:00,Pio,Aniquiladores,3,6
+5,13:00,Xbuyer,Troncos,3,4
+6,08:00,ultimate mostoles,1k,0,1
+6,09:00,Troncos,El barrio,6,4
+6,10:00,Kunisport,Jijantes,2,1
+6,11:00,Porcinos,Rayo de Barcelona,5,4
+6,12:00,Aniquiladores,Saiyans,1,6
+6,13:00,Xbuyer,Pio,4,5
+7,08:00,Xbuyer,Jijantes,2,3
+7,09:00,Porcinos,Troncos,5,4
+7,10:00,Saiyans,Ultimate mostoles,2,6
+7,11:00,El barrio,Aniquiladores,4,5
+7,12:00,Pio,Rayo de Barcelona,5,4
+7,13:00,1K,Kunisport,2,2
+8,08:00,Rayo de Barcelona,Kunisport,5,9
+8,09:00,Porcinos,El barrio,6,0
+8,10:00,Troncos,Ultimate mostoles,0,3
+8,11:00,Xbuyer,1K,3,4
+8,12:00,Aniquiladores,Jijantes,8,3
+8,13:00,Pio,Saiyans,1,3
+9,08:00,Porcinos,Xbuyer,6,6
+9,09:00,El barrio,Rayo de barcelona,2,1
+9,10:00,Saiyans,Troncos,3,1
+9,11:00,1K,Aniquiladores,5,6
+9,12:00,Kunisport,Ultimate mostoles,0,5
+9,13:00,Pio,Jijantes,2,3
+10,08:00,1k,El barrio,0,7
+10,09:00,Porcinos,Kunisport,4,5
+10,10:00,Troncos,Rayo de barcelona,2,3
+10,11:00,Saiyans,Jijantes,2,3
+10,12:00,Aniquiladores,Xbuyer,3,2
+10,13:00,ultimate mostoles,Pio,4,5
+11,08:00,1K,Rayo de barcelona,3,2
+11,09:00,Porcinos,Jijantes,3,7
+11,10:00,Kunisport,Troncos,2,3
+11,11:00,Saiyans,Xbuyer,4,3
+11,12:00,ultimate mostoles,Aniquiladores,3,2
+11,13:00,El barrio,Pio,5,4
